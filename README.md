@@ -1,4 +1,4 @@
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <h1 align="center">Hi 👋, I'm Akash S</h1>
 <h3 align="center">A passionate .NET Fullstack Developer with expertise in Angular from India</h3>
 
